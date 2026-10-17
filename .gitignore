@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets
+.env
+*.env.local
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Audio test files & artifacts
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
